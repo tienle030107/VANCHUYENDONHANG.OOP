@@ -1,1 +1,14 @@
+# Tep sinh ra khi bien dich va chay chuong trinh
+bin/
+obj/
+*.o
+*.obj
+*.exe
+*.out
+*.layout
+*.depend
+*.log
+.vscode/
+.idea/
+.DS_Store
 
